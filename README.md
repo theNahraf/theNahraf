@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on freelance web development projects, including custom websites for businesses and individuals. <br>👯I’m looking to collaborate on open-source projects, AI/ML applications, and full-stack web development.
+<br>🤝  I’m looking for help with advanced DevOps, cloud technologies, and AI/ML projects.<br>🌱 I’m currently learning Machine Learning, Deep Learning, and DevOps while continuing DSA and competitive programming.<br>💬 Ask me about MERN stack, Django, competitive programming, and AI/ML.<br>⚡ Fun fact : I was a Top 5 finalist in the Microsoft Innovortex Hackathon and love solving LeetCode challenges (1500+ rating)!
+
+LeetCode: https://www.leetcode.com/u/nahraf_xd/
 
 
 ## 🌐 Socials:
